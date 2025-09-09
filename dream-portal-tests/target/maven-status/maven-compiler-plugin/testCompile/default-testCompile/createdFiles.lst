@@ -1,0 +1,6 @@
+com/dreamportal/dream_portal_tests/pages/DreamDiaryPage.class
+com/dreamportal/dream_portal_tests/base/BaseTest.class
+com/dreamportal/dream_portal_tests/pages/DreamSummaryPage.class
+com/dreamportal/dream_portal_tests/tests/DreamPortalTests.class
+com/dreamportal/dream_portal_tests/DreamPortalTestsApplicationTests.class
+com/dreamportal/dream_portal_tests/pages/HomePage.class

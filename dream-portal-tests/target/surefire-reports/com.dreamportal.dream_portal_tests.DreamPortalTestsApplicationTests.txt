@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dreamportal.dream_portal_tests.DreamPortalTestsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.457 s -- in com.dreamportal.dream_portal_tests.DreamPortalTestsApplicationTests
